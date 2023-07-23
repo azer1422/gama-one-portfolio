@@ -13,26 +13,19 @@ const About = () => {
                 </div>
 
                 <p className='text-xl mt-20'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                    officia deserunt mollit anim id est laborum.
+                   I've always been intersted in building things since I was young. I remember taking apart watches,
+                   computers trying to figure out what made them work. Originally born overseas, I did not dream of a life in the United States.
+                   In fact, I wasn't even aware of the country. When I moved to the US, I became more curious of the world around me.
+                   Through this curiousness, I stumbled in the field
+                   of technology. I decided to complete my undergrad in computer engineering where I learned about computer hardware
+                   , completed grad school to learn more about the theory of computers. I think the world can be so much more if people output more good things.
+                   My most important skillset, I feel, is pushing my self everyday to learn new skills. They may have nothing to do with each other and
+                   my carrer I feel they are worth doing.
                 </p>
 
                 <br/>
 
-                <p className='text-xl'>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                    Tempora, repellat dolorem perferendis inventore aspernatur,
-                    ratione ullam sapiente provident numquam, laborum labore nobis? 
-                    Nihil, quisquam quam. Vitae ratione quis consectetur debitis qui
-                    earum porro reiciendis excepturi a minima blanditiis veritatis
-                    necessitatibus voluptate eius iusto voluptas nam, voluptatum,
-                    consequatur quaerat dignissimos placeat.
-                </p>
+     
             </div>
         </div>
     )
